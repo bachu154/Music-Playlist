@@ -74,7 +74,11 @@ The app must have the following functionalities
 <details>
 <summary>Image URLs</summary>
 
-- [https://assets.ccbp.in/frontend/react-js/music-playlist/music-playlist-Edsheeran-bg.png](https://assets.ccbp.in/frontend/react-js/music-playlist/music-playlist-Edsheeran-bg.png) background-image URL
+- [https://assets.ccbp.in/frontend/react-js/music-playlist/music-playlist-Edsheeran-bg.png](https://assets.ccbp.in/frontend/react-js/music-playlist/mu
+
+https://github.com/user-attachments/assets/c507f9d8-5ca3-4e1d-85f7-1af54bc7f633
+
+sic-playlist-Edsheeran-bg.png) background-image URL
 
 </details>
 
