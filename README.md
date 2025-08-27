@@ -2,6 +2,10 @@ The goal of this coding exam is to quickly get you off the ground with **Lists a
 
 ### Refer to the image below:
 
+
+https://github.com/user-attachments/assets/12684394-e246-4a85-a551-44b1d8078512
+
+
 <br/>
 <div style="text-align: center;">
   <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
@@ -75,10 +79,6 @@ The app must have the following functionalities
 <summary>Image URLs</summary>
 
 - [https://assets.ccbp.in/frontend/react-js/music-playlist/music-playlist-Edsheeran-bg.png](https://assets.ccbp.in/frontend/react-js/music-playlist/mu
-
-https://github.com/user-attachments/assets/c507f9d8-5ca3-4e1d-85f7-1af54bc7f633
-
-sic-playlist-Edsheeran-bg.png) background-image URL
 
 </details>
 
